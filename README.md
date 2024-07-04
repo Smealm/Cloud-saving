@@ -65,6 +65,6 @@ or follow the instructions below if you wanna set it up manually
 12. enable 'Back up games on an interval during play' and set it to 5 - 15 minutes (up to personal preference), this feature just makes it so if your computer crashes or power gets cut out you will still likely have a 5 - 15 minute backup of your save file stored on your cloud server)
 13. enable 'Only show notifications on Failure'
 
-Tips: if a game keeps saying "Ludusavi does not recognize (game name), this game requires a matching custom entry in ludusavi" then right click on the game, hover over the 'Ludusavi' option, click 'Look up with another title, search for the game select & apply it then it should work.
+Tips: if playnite keeps saying "Ludusavi does not recognize (game name), this game requires a matching custom entry in ludusavi" then right click on the game, hover over the 'Ludusavi' option, click 'Look up with another title, search for the game select & apply it then it should work.
 
 Your done! Simply import your games into playnite and launch them through it.
