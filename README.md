@@ -19,6 +19,7 @@ Downsides
 1. All your windows devices must have the same Windows username to sync with each other, this is due to how ludusavi restores saves, it restores an entire directory leading to the save which includes your windows username. Just use the same windows username on both systems so the directories match up
 2. You have to do this manually for each machine, once it is setup though they will sync with each other perfectly with no hassle.
 3. Only Windows is supported, once again due to how ludusavi restores saves.
+4. You have to launch the game through Playnite for the saves to be synced with the cloud
 
 With that out of the way here is how you do it
 
