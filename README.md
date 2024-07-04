@@ -38,12 +38,14 @@ in the new window that pops up click 'Google Drive'
 under 'My Drive syncing options' click 'Mirror Files' (Make sure you have enough disk space)
 make sure google drive is set to run on startup
 
-# Prepping your cloud service ([or just use my install script](https://github.com/Smealm/Cloud-saving/blob/main/LudusaviQuickSetup.bat))
-create a folder named 'ludusavi' on the root of your google drive
-go into the newly created ludusavi folder and create a 'Saves' folder
-download ludusavi, extract it and put its .exe file in your ludusavi folder
-download rclone, extract it and put rclone.exe in your ludusavi folder
-delete the leftover files
+# Prepping your cloud service 
+([place this at the root of your google drive and run it](https://github.com/Smealm/Cloud-saving/blob/main/LudusaviQuickSetup.bat))
+or follow the instructions below if you wanna set it up manually
+1. create a folder named 'ludusavi' on the root of your google drive
+2. go into the newly created ludusavi folder and create a 'Saves' folder
+3. download ludusavi, extract it and put its .exe file in your ludusavi folder
+4. download rclone, extract it and put rclone.exe in your ludusavi folder
+5. delete the leftover files
 
 # configuring Playnite
 1. go into playnite, click the controller icon and go into add-ons
