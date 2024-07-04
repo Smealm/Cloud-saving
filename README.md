@@ -11,6 +11,7 @@ This guide requires a cloud storage provider (choose your prefered one)
 2. Mega.nz
 3. DropBox
 4. OneDrive
+
 (any cloud storage provider works, as long as they provide software that mounts your cloud drive onto your system and allows file mirroring)
 
 Downsides
