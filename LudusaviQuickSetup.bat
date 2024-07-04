@@ -5,7 +5,7 @@ set ludusaviVersion="v0.24.3"
 set ludusaviArchOS="win64"
 
 :: RCLONE INFORMATION
-:: rclone version v1.67.0
+:: rclone version
 set rcloneVersion="v1.67.0"
 :: rclone Arch-OS
 set rcloneArchOS="windows-amd64"
