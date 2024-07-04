@@ -1,7 +1,7 @@
 # Cloud-saving
 
 This github page serves as a tutorial for something i've discovered, something I wanted for a long time but could never seem to figure out, until recently.
-Video game cloud saving, using any game, any video game storefront
+Video game cloud saving, using any game from PCGamingWiki
 
 Ever tried to play saints row 3 on epic games and got annoyed how it isn't cloud saved? 
 Ever got a game through less then legitimate means and wanted some sort of cloud saving, similiar to Steam's?
@@ -32,14 +32,14 @@ With that out of the way here is how you do it
 6. once the add-on is downloaded apply and restart playnite
 
 # Setup prefered cloud service (in this case google drive)
-[download google drive](https://www.google.com/drive/download/)
-run the installer
-once google drive is installed sign in or make an account
-click on the tray icon and click the gear
-click 'preferences'
-in the new window that pops up click 'Google Drive'
-under 'My Drive syncing options' click 'Mirror Files' (Make sure you have enough disk space)
-make sure google drive is set to run on startup
+1. [download google drive](https://www.google.com/drive/download/)
+2. run the installer
+3. once google drive is installed sign in or make an account
+4. click on the tray icon and click the gear
+5. click 'preferences'
+6. in the new window that pops up click 'Google Drive'
+7. under 'My Drive syncing options' click 'Mirror Files' (Make sure you have enough disk space)
+8. make sure google drive is set to run on startup
 
 # Prepping your cloud service 
 ([place this at the root of your google drive and run it](https://github.com/Smealm/Cloud-saving/blob/main/LudusaviQuickSetup.bat))
@@ -65,6 +65,6 @@ or follow the instructions below if you wanna set it up manually
 12. enable 'Back up games on an interval during play' and set it to 5 - 15 minutes (up to personal preference, this feature just makes it so if your computer crashes or power gets cut out you will still likely have a 5 - 15 minute backup of your save file stored on your cloud server)
 13. enable 'Only show notifications on Failure'
 
-Tips: if a game keeps saying "Ludusavi does not recognize (game name), this game requires a matching custom entry in ludusavi" then right click on the game, hover over the 'Ludusavi' option, click 'Look up with another title and search for the game and select, and apply it, it should work now.
+Tips: if a game keeps saying "Ludusavi does not recognize (game name), this game requires a matching custom entry in ludusavi" then right click on the game, hover over the 'Ludusavi' option, click 'Look up with another title, search for the game select & apply it then it should work.
 
 Your done! Simply import your games into playnite and launch them through it.
