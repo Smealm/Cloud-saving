@@ -3,7 +3,7 @@
 This github page serves as a tutorial for something i've discovered, something I wanted for a long time but could never seem to figure out, until recently.
 Video game cloud saving, using any game from [PCGamingWiki](https://www.pcgamingwiki.com/)
 
-Ever tried to play [Saints Row 3]([https://www.pcgamingwiki.com/wiki/Saints_Row:_The_Third_Remastered](https://www.pcgamingwiki.com/wiki/Saints_Row:_The_Third_Remastered#Save_game_cloud_syncing)) on epic games and got annoyed [how it isn't cloud saved](https://www.reddit.com/r/SaintsRow/comments/wwrm0w/no_cloud_saving_on_epic/)? 
+Ever tried to play [Saints Row 3](https://www.pcgamingwiki.com/wiki/Saints_Row:_The_Third_Remastered#Save_game_cloud_syncing) on epic games and got annoyed [how it isn't cloud saved](https://www.reddit.com/r/SaintsRow/comments/wwrm0w/no_cloud_saving_on_epic/)? 
 Ever got a game through less then legitimate means and wanted some sort of cloud saving, [similiar to Steams](https://help.steampowered.com/en/faqs/view/68D2-35AB-09A9-7678)?
 Well this guide has got you covered as it solves this issue
 
