@@ -13,7 +13,7 @@ This guide requires a cloud storage provider (choose your prefered one)
 3. [DropBox](https://www.dropbox.com/)
 4. [OneDrive](https://onedrive.com/)
 
-(any cloud storage provider works, [as long as they provide software that mounts your cloud drive onto your system and allows file mirroring](https://support.google.com/drive/answer/13401938?hl=en))
+(any cloud storage provider works, as long as they provide software that mounts your cloud drive onto your system and [allows file mirroring](https://support.google.com/drive/answer/13401938?hl=en))
 
 Downsides
 1. All your windows devices must have the same Windows username to sync with each other, this is due to how ludusavi restores saves, it restores an entire directory leading to the save which includes your windows username. Just use the same windows username on both systems so the directories match up
