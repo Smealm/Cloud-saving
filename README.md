@@ -7,6 +7,7 @@ Ever tried to play [Saints Row 3](https://www.pcgamingwiki.com/wiki/Saints_Row:_
 Ever got a game through less then legitimate means and wanted some sort of cloud saving, [similiar to Steams](https://help.steampowered.com/en/faqs/view/68D2-35AB-09A9-7678)?
 Well this guide has got you covered as it solves this issue
 
+# Choosing a Storage Provider
 This guide requires a cloud storage provider (choose your prefered one)
 1. [Google Drive](https://drive.google.com/)
 2. [Mega.nz](https://mega.nz/)
