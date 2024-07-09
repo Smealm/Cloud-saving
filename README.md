@@ -59,11 +59,11 @@ or follow the instructions below if you wanna set it up manually
 5. in the 'name or full path of the Ludusavi executable', click browse and navigate to your ludusavi folder on your google drive and select the ludusavi.exe file
 6. after that check the 'Override full path to directory for storing backups' and navigate to your 'Saves' folder you created earlier
 7. enable 'Override backup format' and select .zip (makes downloading / syncing to and from google drive much faster, as well as saving storage space)
-8. enable 'Override backup retention' and set it to 'Max full backups' to 2 and set 'Max differential backups per full backup' to 3 (up to personal preference really)
+8. enable 'Override backup retention' and set it to 'Max full backups' to 2 and set 'Max differential backups per full backup' to 20 (up to personal preference really)
 9. enable 'Back up save data for a game after playing it' 
 10. disable 'Ask first instead of doing it automatically'
 11. enable 'Also restore save data for a game before playing it'
-12. enable 'Back up games on an interval during play' and set it to 5 - 15 minutes (up to personal preference), this feature just makes it so if your computer crashes or power gets cut out you will still likely have a 5 - 15 minute backup of your save file stored on your cloud server)
+12. enable 'Back up games on an interval during play' and set it to 15 - 30 minutes (up to personal preference), this feature just makes it so if your computer crashes or power gets cut out you will still likely have a 5 - 15 minute backup of your save file stored on your cloud server)
 13. enable 'Only show notifications on Failure'
 
 Tips: if playnite keeps saying "Ludusavi does not recognize (game name), this game requires a matching custom entry in ludusavi" then right click on the game, hover over the 'Ludusavi' option, click 'Look up with another title, search for the game select & apply it then it should work.
