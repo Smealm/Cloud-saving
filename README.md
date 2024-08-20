@@ -51,6 +51,9 @@ or follow the instructions below if you wanna set it up manually
 4. download rclone, extract it and put rclone.exe in your ludusavi folder
 5. delete the leftover files
 
+## Optional Step
+I recommend downloading [TeraBox](https://www.terabox.com) and setting up the desktop app to automatically backup your google drive's '/Ludusavi/Saves' folder, in case something goes wrong and you have to restore an older save for a game.
+
 # configuring Playnite
 ## Locating Settings
 1. go into playnite, click the controller icon and go into add-ons
@@ -72,11 +75,6 @@ or follow the instructions below if you wanna set it up manually
 
 ## Configure Notifications
 1. enable 'Only show notifications on Failure'
-
-## Optional Step
-I recommend downloading [TeraBox](https://www.terabox.com) and setting up the desktop app to automatically backup your google drive's '/Ludusavi/Saves' folder, in case something goes wrong and you have to restore an older save for a game.
-
----
 
 # Tips 
 If playnite keeps saying "Ludusavi does not recognize (game name), this game requires a matching custom entry in ludusavi" then right click on the game, hover over the 'Ludusavi' option, click 'Look up with another title', search for the game name in the list & apply it then it should work.
