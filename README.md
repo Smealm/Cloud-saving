@@ -59,21 +59,19 @@ or follow the instructions below if you wanna set it up manually
 4. click on 'ludusavi'
 
 ## Setting Paths
-5. in the 'name or full path of the Ludusavi executable', click browse and navigate to your ludusavi folder on your google drive and select the ludusavi.exe file
-6. after that check the 'Override full path to directory for storing backups' and navigate to your 'Saves' folder you created earlier
+1. in the 'name or full path of the Ludusavi executable', click browse and navigate to your ludusavi folder on your google drive and select the ludusavi.exe file
+2. after that check the 'Override full path to directory for storing backups' and navigate to your 'Saves' folder you created earlier
 
 ## Configure Backup Behaviour
-7. enable 'Override backup format' and select .zip (makes downloading / syncing to and from google drive much faster, as well as saving storage space)
-8. enable 'Override backup retention' and set it to 'Max full backups' to 1 and set 'Max differential backups per full backup' to 1
-
-## Configure Automatic Backups
-9. enable 'Back up save data for a game after playing it' 
-10. disable 'Ask first instead of doing it automatically'
-11. enable 'Also restore save data for a game before playing it'
-12. enable 'Back up games on an interval during play' and set it to 15 - 30 minutes (up to personal preference), this feature just makes it so if your computer crashes or power gets cut out you will still likely have a 5 - 15 minute backup of your save file stored on your cloud server)
+1. enable 'Override backup format' and select .zip (makes downloading / syncing to and from google drive much faster, as well as saving storage space)
+2. enable 'Override backup retention' and set it to 'Max full backups' to 1 and set 'Max differential backups per full backup' to 1
+3. enable 'Back up save data for a game after playing it' 
+4. disable 'Ask first instead of doing it automatically'
+5. enable 'Also restore save data for a game before playing it'
+6. enable 'Back up games on an interval during play' and set it to 15 - 30 minutes (up to personal preference), this feature just makes it so if your computer crashes or power gets cut out you will still likely have a 5 - 15 minute backup of your save file stored on your cloud server)
 
 ## Configure Notifications
-13. enable 'Only show notifications on Failure'
+enable 'Only show notifications on Failure'
 
 ## Optional Step
 I recommend downloading [TeraBox](https://www.terabox.com) and setting up the desktop app to automatically backup your google drive's '/Ludusavi/Saves' folder, in case something goes wrong and you have to restore an older save for a game.
