@@ -59,7 +59,7 @@ or follow the instructions below if you wanna set it up manually
 5. in the 'name or full path of the Ludusavi executable', click browse and navigate to your ludusavi folder on your google drive and select the ludusavi.exe file
 6. after that check the 'Override full path to directory for storing backups' and navigate to your 'Saves' folder you created earlier
 7. enable 'Override backup format' and select .zip (makes downloading / syncing to and from google drive much faster, as well as saving storage space)
-8. enable 'Override backup retention' and set it to 'Max full backups' to 2 and set 'Max differential backups per full backup' to 5 (up to personal preference really)
+8. enable 'Override backup retention' and set it to 'Max full backups' to 1 and set 'Max differential backups per full backup' to 1 (I recommend downloading [TeraBox](https://www.terabox.com) and setting up the desktop app to automatically backup your google drive's '/Ludusavi/Saves' folder, in case something goes wrong and you have to restore an older save for a game.)
 9. enable 'Back up save data for a game after playing it' 
 10. disable 'Ask first instead of doing it automatically'
 11. enable 'Also restore save data for a game before playing it'
