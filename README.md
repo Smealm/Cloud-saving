@@ -71,7 +71,7 @@ or follow the instructions below if you wanna set it up manually
 6. enable 'Back up games on an interval during play' and set it to 15 - 30 minutes (up to personal preference), this feature just makes it so if your computer crashes or power gets cut out you will still likely have a 5 - 15 minute backup of your save file stored on your cloud server)
 
 ## Configure Notifications
-enable 'Only show notifications on Failure'
+1. enable 'Only show notifications on Failure'
 
 ## Optional Step
 I recommend downloading [TeraBox](https://www.terabox.com) and setting up the desktop app to automatically backup your google drive's '/Ludusavi/Saves' folder, in case something goes wrong and you have to restore an older save for a game.
