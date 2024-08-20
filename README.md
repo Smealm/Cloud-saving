@@ -51,7 +51,7 @@ or follow the instructions below if you wanna set it up manually
 4. download rclone, extract it and put rclone.exe in your ludusavi folder
 5. delete the leftover files
 
-## Optional Step
+---
 I recommend downloading [TeraBox](https://www.terabox.com) and setting up the desktop app to automatically backup your google drive's '/Ludusavi/Saves' folder, in case something goes wrong and you have to restore an older save for a game.
 
 # configuring Playnite
