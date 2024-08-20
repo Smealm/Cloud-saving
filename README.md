@@ -66,8 +66,7 @@ or follow the instructions below if you wanna set it up manually
 
 7. enable 'Override backup format' and select .zip (makes downloading / syncing to and from google drive much faster, as well as saving storage space)
 
-8.1 enable 'Override backup retention' and set it to 'Max full backups' to 1 and set 'Max differential backups per full backup' to 1
-8.2 I recommend downloading [TeraBox](https://www.terabox.com) and setting up the desktop app to automatically backup your google drive's '/Ludusavi/Saves' folder, in case something goes wrong and you have to restore an older save for a game.
+8. enable 'Override backup retention' and set it to 'Max full backups' to 1 and set 'Max differential backups per full backup' to 1
 
 9. enable 'Back up save data for a game after playing it' 
 
@@ -78,6 +77,8 @@ or follow the instructions below if you wanna set it up manually
 12. enable 'Back up games on an interval during play' and set it to 15 - 30 minutes (up to personal preference), this feature just makes it so if your computer crashes or power gets cut out you will still likely have a 5 - 15 minute backup of your save file stored on your cloud server)
 
 13. enable 'Only show notifications on Failure'
+
+(Optional Step) I recommend downloading [TeraBox](https://www.terabox.com) and setting up the desktop app to automatically backup your google drive's '/Ludusavi/Saves' folder, in case something goes wrong and you have to restore an older save for a game.
 
 ---
 
