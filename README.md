@@ -68,7 +68,7 @@ or follow the instructions below if you wanna set it up manually
 3. enable 'Back up save data for a game after playing it' 
 4. disable 'Ask first instead of doing it automatically'
 5. enable 'Also restore save data for a game before playing it'
-6. enable 'Back up games on an interval during play' and set it to 15 - 30 minutes (up to personal preference), this feature just makes it so if your computer crashes or power gets cut out you will still likely have a 5 - 15 minute backup of your save file stored on your cloud server)
+6. enable 'Back up games on an interval during play' and set it to 15 - 30 minutes (up to personal preference), this feature just makes it so if your computer crashes or power gets cut out you will still likely have a recent backup of your save file stored on your cloud server)
 
 ## Configure Notifications
 1. enable 'Only show notifications on Failure'
