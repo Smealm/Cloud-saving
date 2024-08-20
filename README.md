@@ -82,6 +82,6 @@ or follow the instructions below if you wanna set it up manually
 
 ---
 
-Tips: if playnite keeps saying "Ludusavi does not recognize (game name), this game requires a matching custom entry in ludusavi" then right click on the game, hover over the 'Ludusavi' option, click 'Look up with another title', search for the game select & apply it then it should work.
+Tips: if playnite keeps saying "Ludusavi does not recognize (game name), this game requires a matching custom entry in ludusavi" then right click on the game, hover over the 'Ludusavi' option, click 'Look up with another title', search for the game name in the list & apply it then it should work.
 
 Your done! Simply import your games into playnite and launch them through it.
