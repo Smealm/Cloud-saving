@@ -25,7 +25,7 @@ C:\ProgramData\Adobe\Director 12\SPR\Prefs
 You're Done! Add Flashpoint to Playnite and enjoy!
 ---
 Note: 
-1. When adding Flashpoint to Playnite, do so by drag and dropping the 'Flashpoint.lnk' file located in the root directory of `C:\Flashpoint`, after doing so right click on Flashpoint within Playnite, click 'edit', click 'actions' and click 'Tracking Mode' and set it to 'Proccess', After doing this hit 'save'.
+1. When adding Flashpoint to Playnite, do so by drag and dropping the 'Flashpoint.lnk' file located in the root directory of `C:\Flashpoint` into Playnite, after doing so right click on Flashpoint within Playnite, click 'edit', click 'actions' and click 'Tracking Mode' and set it to 'Proccess', After doing this hit 'save'.
 
 2. You will need to create a symbolic link between the folders present in `%AppData%\Roaming\Macromedia\Flash Player\#SharedObjects` on the machines you are syncing together with, as these folders are unique per machine and need to be linked up.
 more information can be found [here](https://flashpointarchive.org/datahub/Save_Data_Locations) and [here](https://www.howtogeek.com/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/#how-to-create-symbolic-links-with-a-graphical-tool). 
