@@ -3,7 +3,7 @@ Ensure Flashpoint is installed to `C:\Flashpoint` as this guide is made with the
 1. Open Ludusavi from your Ludusavi folder in your cloud saved location
 2. Click on 'Custom Games'
 3. Click 'Add Game' and name it 'Flashpoint'
-4. Create 15 paths
+4. Create 21 paths
 5. Fill in each path with the following directories (one directory per path), make sure you replace the windows username with the windows username you are using. 
 ```
 C:\Users\_YOUR_WINDOWS_USERNAME_\AppData\Roaming\Macromedia\Flash Player\#SharedObjects
