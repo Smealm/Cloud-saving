@@ -4,7 +4,7 @@ Ensure Flashpoint is installed to `C:\Flashpoint` as this guide is made with the
 2. Click on 'Custom Games'
 3. Click 'Add Game' and name it 'Flashpoint'
 4. Create 15 paths
-5. Fill in each path with the following directories (one directory per line), make sure you replace the windows username with the windows username you are using. 
+5. Fill in each path with the following directories (one directory per path), make sure you replace the windows username with the windows username you are using. 
 ```
 C:\Users\_YOUR_WINDOWS_USERNAME_\AppData\Roaming\Macromedia\Flash Player\#SharedObjects
 C:\Users\_YOUR_WINDOWS_USERNAME_\AppData\Roaming\Unity\WebPlayerPrefs
