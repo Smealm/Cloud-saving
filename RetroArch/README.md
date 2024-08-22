@@ -1,6 +1,6 @@
 Ensure RetroArch is installed to `C:\RetroArch-Win64` as this guide is made with the assumption that this is the case.
 
-Open Ludusavi from your RetroArch folder in your cloud saved location
+Open Ludusavi from your Ludusavi folder in your cloud saved location
 Click on 'Custom Games'
 Click 'Add Game' and name it 'RetroArch'
 Create 2 paths
