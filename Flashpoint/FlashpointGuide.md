@@ -23,7 +23,10 @@ C:\ProgramData\Adobe\Director 12\Projector\Prefs
 C:\ProgramData\Adobe\Director 12\SPR\Prefs
 ```
 You're Done! Add Flashpoint to Playnite and enjoy!
+---
+Note: 
+1. When adding Flashpoint to Playnite, do so by drag and dropping the Flashpoint.lnk file located in the root directory of `C:\Flashpoint`, after doing so right click on Flashpoint within Playnite, click 'edit', click 'actions' and click 'Tracking Mode' and set it to 'Proccess', After doing this hit 'save'.
 
-Note: You will need to create a symbolic link between the folders present in `%AppData%\Roaming\Macromedia\Flash Player\#SharedObjects` on the machines you are syncing together with, as these folders are unique per machine and need to be linked up.
+2. You will need to create a symbolic link between the folders present in `%AppData%\Roaming\Macromedia\Flash Player\#SharedObjects` on the machines you are syncing together with, as these folders are unique per machine and need to be linked up.
 more information can be found [here](https://flashpointarchive.org/datahub/Save_Data_Locations) and [here](https://www.howtogeek.com/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/#how-to-create-symbolic-links-with-a-graphical-tool). 
 Launch Flashpoint on the second machine and play a game, make a save file or whatever (this is done in order to generate the machines unique save folder), note the name of the 2nd machines folder, delete it, make a symbolic link of the 1st computers folder (the one that actually has the save files you want) and name the symbolic link folder what the name of 2nd computers folder was before you deleted it.
