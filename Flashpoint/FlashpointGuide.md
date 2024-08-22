@@ -17,6 +17,12 @@ C:\Users\_YOUR_WINDOWS_USERNAME_\AppData\LocalLow\Adobe\Director 12\SPR\Prefs
 C:\Flashpoint\FPSoftware\fpnavigator-portable\User\flashpointnavigator\Profiles\Default\webappsstore.sqlite
 C:\Flashpoint\FPSoftware\Shockwave\PJ851\Prefs
 C:\Flashpoint\FPSoftware\Shockwave\PJ9\Prefs
+C:\Flashpoint\Legacy\cgi-bin\www.xgenstudios.com\motherload\savedata
+C:\Flashpoint\Legacy\htdocs\www.pom-baer.at\spiele\weltenbauer\welten
+C:\Flashpoint\Legacy\cgi-bin\api.xgenstudios.com\stickrpg2
+C:\Flashpoint\Legacy\cgi-bin\www.elementsthegame.com\saves
+C:\Flashpoint\Legacy\htdocs\httpsmynk.ninjakiwi.com\database\userdata
+C:\Flashpoint\Legacy\htdocs\awesomehouseparty.com\house\bfahp.sqlite
 C:\ProgramData\Adobe\Director 11\Projector\Prefs
 C:\ProgramData\Adobe\Director 11\SPR\Prefs
 C:\ProgramData\Adobe\Director 12\Projector\Prefs
