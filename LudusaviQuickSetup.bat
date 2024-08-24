@@ -19,9 +19,8 @@ del Ludusavi.exe
 del rclone.exe
 cd ..
 ) else (
-goto skip1
+mkdir Ludusavi
 )
-:skip1
 
 echo downloading Ludusavi
 if exist Ludusavi.zip (
