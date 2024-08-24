@@ -1,3 +1,5 @@
+@echo off
+
 :: LUDUSAVI INFORMATION
 :: ludusavi version
 set ludusaviVersion="v0.25.0"
@@ -11,33 +13,55 @@ set rcloneVersion="v1.67.0"
 set rcloneArchOS="windows-amd64"
 
 
-
-:: download Ludusavi
-curl.exe -fSLo Ludusavi.zip https://github.com/mtkennerly/ludusavi/releases/download/%ludusaviVersion%/ludusavi-%ludusaviVersion%-%ludusaviArchOS%.zip
-
-:: extract ludusavi.zip
-powershell Expand-Archive -Force ludusavi.zip
-
-:: delete ludusavi.zip
-del /f /q ludusavi.zip
-
-:: download rclone
-curl.exe -fSLo ludusavi.zip https://downloads.rclone.org/%rcloneVersion%/rclone-%rcloneVersion%-%rcloneArchOS%.zip
-
-:: extract ludusavi.zip (RClone)
-powershell Expand-Archive -Force ludusavi.zip
-
-:: delete ludusavi.zip (RClone)
-del /f /q ludusavi.zip
-
-:: move rclone to ludusavi root directory
-move ludusavi\rclone-%rcloneVersion%-%rcloneArchOS%\rclone.exe ludusavi
-
-:: enter Ludusavi directory
+if exist "Ludusavi" (
 cd Ludusavi
+del Ludusavi.exe
+del rclone.exe
+cd ..
+) else (
+goto skip1
+)
+:skip1
 
-:: create 'Saves' folder
+echo downloading Ludusavi
+if exist Ludusavi.zip (
+del /f /q ludusavi.zip
+curl.exe -fSLo Ludusavi.zip https://github.com/mtkennerly/ludusavi/releases/download/%ludusaviVersion%/ludusavi-%ludusaviVersion%-%ludusaviArchOS%.zip
+powershell Expand-Archive -Force ludusavi.zip
+del /f /q ludusavi.zip
+cls
+) else (
+curl.exe -fSLo Ludusavi.zip https://github.com/mtkennerly/ludusavi/releases/download/%ludusaviVersion%/ludusavi-%ludusaviVersion%-%ludusaviArchOS%.zip
+powershell Expand-Archive -Force ludusavi.zip
+del /f /q ludusavi.zip
+cls
+)
+
+echo downloading rclone
+if exist Ludusavi.zip (
+del /f /q ludusavi.zip
+curl.exe -fSLo ludusavi.zip https://downloads.rclone.org/%rcloneVersion%/rclone-%rcloneVersion%-%rcloneArchOS%.zip
+powershell Expand-Archive -Force ludusavi.zip
+move ludusavi\rclone-%rcloneVersion%-%rcloneArchOS%\rclone.exe ludusavi
+del /f /q ludusavi.zip
+rmdir /S /Q ludusavi\rclone-%rcloneVersion%-%rcloneArchOS%
+cls
+) else (
+curl.exe -fSLo ludusavi.zip https://downloads.rclone.org/%rcloneVersion%/rclone-%rcloneVersion%-%rcloneArchOS%.zip
+powershell Expand-Archive -Force ludusavi.zip
+move ludusavi\rclone-%rcloneVersion%-%rcloneArchOS%\rclone.exe ludusavi
+del /f /q ludusavi.zip
+rmdir /S /Q ludusavi\rclone-%rcloneVersion%-%rcloneArchOS%
+cls
+)
+
+echo creating 'Saves' folder
+cd ludusavi
+if not exist "Saves" (
 mkdir Saves
-
-:: delete rclone leftovers
-rmdir /S /Q rclone-%rcloneVersion%-%rcloneArchOS%
+cd ..
+cls
+) else (
+cd ..
+cls
+)
