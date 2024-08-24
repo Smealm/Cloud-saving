@@ -1,6 +1,6 @@
 :: LUDUSAVI INFORMATION
 :: ludusavi version
-set ludusaviVersion="v0.24.3"
+set ludusaviVersion="v0.25.0"
 :: ludusavi Arch-OS
 set ludusaviArchOS="win64"
 
