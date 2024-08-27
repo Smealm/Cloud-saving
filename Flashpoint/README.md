@@ -23,6 +23,7 @@ C:\Flashpoint\Legacy\cgi-bin\api.xgenstudios.com\stickrpg2
 C:\Flashpoint\Legacy\cgi-bin\www.elementsthegame.com\saves
 C:\Flashpoint\Legacy\htdocs\httpsmynk.ninjakiwi.com\database\userdata
 C:\Flashpoint\Legacy\htdocs\awesomehouseparty.com\house\bfahp.sqlite
+C:\Flashpoint\Data\Playlists
 C:\ProgramData\Adobe\Director 11\Projector\Prefs
 C:\ProgramData\Adobe\Director 11\SPR\Prefs
 C:\ProgramData\Adobe\Director 12\Projector\Prefs
