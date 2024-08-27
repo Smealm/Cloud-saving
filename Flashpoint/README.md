@@ -2,7 +2,7 @@ Ensure Flashpoint is installed to `C:\Flashpoint` as this guide is made with the
 
 1. Open Ludusavi from your Ludusavi folder in your cloud saved location
 2. Click on 'Custom Games'
-3. Click 'Add Game' and name it 'Flashpoint'
+3. Click 'Add Game' and name it 'Flashpoint Archive'
 4. Create 22 paths
 5. Fill in each path with the following directories (one directory per path), make sure you replace the windows username with the windows username you are using. 
 ```
@@ -33,7 +33,7 @@ You're Done! Add Flashpoint to Playnite and enjoy!
 
 ---
 Note: 
-1. When adding Flashpoint to Playnite, do so by drag and dropping the 'Flashpoint.lnk' file located in the root directory of `C:\Flashpoint` into Playnite, after doing so right click on Flashpoint within Playnite, click 'edit', click 'actions' and click 'Tracking Mode' and set it to 'Proccess', After doing this hit 'save'.
+1. When adding Flashpoint to Playnite, do so by drag and dropping the 'Flashpoint.lnk' file located in the root directory of `C:\Flashpoint` into Playnite, after doing so right click on Flashpoint within Playnite, click 'edit', click 'actions' and click 'Tracking Mode' and set it to 'Proccess', After doing this hit 'save'. Make sure Flashpoint is named 'Flashpoint Archive' within playnite.
 
 2. You will need to create a symbolic link between the folders present in `%AppData%\Roaming\Macromedia\Flash Player\#SharedObjects` on the machines you are syncing together with, as these folders are unique per machine and need to be linked up.
 more information can be found [here](https://flashpointarchive.org/datahub/Save_Data_Locations) and [here](https://www.howtogeek.com/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/#how-to-create-symbolic-links-with-a-graphical-tool). 
