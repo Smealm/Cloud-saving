@@ -30,6 +30,7 @@ C:\ProgramData\Adobe\Director 12\Projector\Prefs
 C:\ProgramData\Adobe\Director 12\SPR\Prefs
 ```
 You're Done! Add Flashpoint to Playnite and enjoy!
+
 ---
 Note: 
 1. When adding Flashpoint to Playnite, do so by drag and dropping the 'Flashpoint.lnk' file located in the root directory of `C:\Flashpoint` into Playnite, after doing so right click on Flashpoint within Playnite, click 'edit', click 'actions' and click 'Tracking Mode' and set it to 'Proccess', After doing this hit 'save'.
