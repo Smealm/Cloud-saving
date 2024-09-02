@@ -9,6 +9,7 @@ Fill in each path with the following directories (one directory per path).
 ```
 C:\RetroArch-Win64\states
 C:\RetroArch-Win64\saves
+C:\RetroArch-Win64\screenshots
 ```
 
 You're Done! Add RetroArch to Playnite and enjoy!
