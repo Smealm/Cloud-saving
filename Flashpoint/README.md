@@ -29,4 +29,6 @@ C:\ProgramData\Adobe\Director 11\SPR\Prefs
 C:\ProgramData\Adobe\Director 12\Projector\Prefs
 C:\ProgramData\Adobe\Director 12\SPR\Prefs
 ```
+Make sure Flashpoint is called 'Flashpoint Archive' within Playnite
+
 You're Done! Add Flashpoint to Playnite and enjoy!
