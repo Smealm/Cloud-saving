@@ -30,5 +30,6 @@ C:\ProgramData\Adobe\Director 12\Projector\Prefs
 C:\ProgramData\Adobe\Director 12\SPR\Prefs
 ```
 Make sure Flashpoint is called 'Flashpoint Archive' within Playnite
-
 You're Done! Add Flashpoint to Playnite and enjoy!
+
+NOTE: The randomly generated folder in `C:\Users\_YOUR_WINDOWS_USERNAME_\AppData\Roaming\Macromedia\Flash Player\#SharedObjects` works across any system, if a folder is present in this directory the flash player will simply not generate one and use the one that is already there. meaning no need to create symbolic links or anything like that, it "just works" out of the box.
