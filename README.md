@@ -21,6 +21,7 @@ This guide requires a cloud storage provider (choose your prefered one)
 2. You have to do this manually for each machine, once it is setup though they will sync with each other perfectly with no hassle.
 3. Only Windows is supported, once again due to how ludusavi restores saves.
 4. You have to launch the game through Playnite for the saves to be synced with the cloud
+5. Games like [Inscyption](https://www.pcgamingwiki.com/wiki/Inscryption#Save_game_data_location) that stores its save data in its own game directory should be stored on your computers 'C:' drive for more consistant saving across devices
 
 With that out of the way here is how you do it
 
