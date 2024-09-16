@@ -13,6 +13,7 @@ C:\RetroArch-Win64\playlists
 C:\RetroArch-Win64\config
 C:\RetroArch-Win64\Retroarch.cfg
 C:\RetroArch-Win64\Retroarch.cfg.bkp
+C:\RetroArch-Win64\system
 ```
 
 You're Done! Add RetroArch to Playnite and enjoy!
