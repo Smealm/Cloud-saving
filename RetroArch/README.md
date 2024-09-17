@@ -1,4 +1,4 @@
-Ensure RetroArch is installed to `C:\RetroArch-Win64` and that your games folder are named in the format of `[Console Manufacturer] - [Console Name]` (for the directory specific core configuration files) as this guide is made with the assumption that this is the case.
+Ensure RetroArch is installed to `C:\RetroArch-Win64` as this guide is made with the assumption that this is the case.
 
 Open Ludusavi from your Ludusavi folder in your cloud saved location
 Click on 'Custom Games'
