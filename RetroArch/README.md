@@ -9,11 +9,10 @@ Fill in each path with the following directories (one directory per path).
 ```
 C:\RetroArch-Win64\states
 C:\RetroArch-Win64\saves
+C:\RetroArch-Win64\system
 C:\RetroArch-Win64\playlists
-C:\RetroArch-Win64\config
 C:\RetroArch-Win64\Retroarch.cfg
 C:\RetroArch-Win64\Retroarch.cfg.bkp
-C:\RetroArch-Win64\system
 ```
 
 You're Done! Add RetroArch to Playnite and enjoy!
