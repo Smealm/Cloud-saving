@@ -16,3 +16,23 @@ C:\RetroArch-Win64\Retroarch.cfg.bkp
 ```
 
 You're Done! Add RetroArch to Playnite and enjoy!
+
+
+AND/OR
+
+
+1. go into your cloud saved location
+2. go into ludusavi
+3. go into saves
+4. make a 'RetroArch' folder
+5. make the following folders
+   ```
+   saves
+   states
+   system
+   playlists
+   ```
+6. Then go into retroarch, settings, directory
+7. change all given directories to ones that match the ones your just created
+
+You're done!
