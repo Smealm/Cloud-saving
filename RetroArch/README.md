@@ -36,3 +36,5 @@ AND/OR
 7. change all given directories to ones that match the ones your just created
 
 You're done!
+
+Notes: If you use both at the same time then on your new system you can won't have to set the directories again in retroarch, the cfg will be carried over so retroarch will just link over the other, save data and settings intact.
