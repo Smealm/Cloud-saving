@@ -38,3 +38,10 @@ AND/OR
 You're done!
 
 Notes: If you use both at the same time then on your new system you can won't have to set the directories again in retroarch, the cfg will be carried over so retroarch will just link over the other, save data and settings intact.
+
+Downsides of both
+First method: 
+1. When launching from playnite, exiting retroarch and loading another game can cause a message to appear saying that ludusavi hasn't finished it's original task, this is caused by ludusavi still compressing retroarch's saves, configs etc. retroarch uses a lot of files in these directories so it takes ludusavi longer to back them up. using the second method allows you to start up retroarch faster from playnite due to the unpacking process being better and when closing you can get to launching something else almost immediately. 
+
+Second method:
+2. this has larger storage requirements on your cloud saving provider, pretty much it. retroarch with all of its files compressed in Ludusavi\saves\RetroArch is around 133mb for me while unpacked loose files it is around 400mb. this isn't really that bad for me as 400mb isnt that much but still it can add up quickly if you play lots of older games. 
